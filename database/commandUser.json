@@ -1,0 +1,41 @@
+[
+  {
+    "jid": "6287786879103@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 5
+      },
+      {
+        "nama": "#nuliskiri",
+        "count": 1
+      },
+      {
+        "nama": "#foliokiri",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287789779960@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#speed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285883154902@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  }
+]
